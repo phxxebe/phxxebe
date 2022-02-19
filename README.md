@@ -2,7 +2,7 @@
 Hey!
 
 + 👩‍🎓 I am a Third Year Computer Science and Engineering Student at Walchand College of Engineering, Sangli.<br>
-+ 👩‍💻 I am currently learning Web Development.
++ 👩‍💻 I am currently learning Full Stack Web Development.
 
 ### Skills:
 <img src="./logos/c.png" width="45"> &nbsp; &nbsp;
@@ -14,6 +14,9 @@ Hey!
 <img src="./logos/js.png" height="50"> &nbsp;
 <img src="./logos/bootstrap.png" width="48">
 <img src="./logos/react.png" width="70">
+<img src="./logos/node.png" width="48"> &nbsp; 
+<img src="./logos/express.png" width="48"> &nbsp; 
+<img src="./logos/mysql.png" width="70"> &nbsp; 
 <img src="./logos/redux.png" width="43"> &nbsp;
 <img src="./logos/firebase.png" width="55"> &nbsp; 
 
